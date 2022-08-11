@@ -1,5 +1,5 @@
 body {
-  background: rgb(202, 52, 189);
+  background: rgb(241, 67, 227);
 }
 h1 {
   text-align: center;
@@ -13,7 +13,7 @@ h1 {
    position: relative;
    width: 200px;
    height: 200px;
-   background: #2f9292;
+   background: #73caca;
    left: 50px;
 }
 .menuPrincipal {
@@ -41,5 +41,14 @@ li a {
   font-family: 'Courier New', Courier, monospace;
 }
 li a:hover {
-  background: rgba(47, 6, 228, 0.185);
+  background: rgba(8, 94, 8, 0.185);
+}
+.BoxImage {
+  width: 500px;
+  height: 350px;
+  background:rgba(238, 112, 8, 0.904);
+}
+#daichi {
+  width: 110%;
+  height: 100%;
 }
