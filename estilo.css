@@ -63,8 +63,8 @@ li a:hover {
   justify-content: center;
 }
 #daichi {
-  width: 110%;
-  height: 100%;
+  width: 900%;
+  height: 101%;
 }
 .rodape {
   position: absolute;
@@ -82,6 +82,14 @@ li a:hover {
   top: 45px;
 } 
 #vazo {
-  width: 650px;
-  height: 450px;
+  width: 50%;
+  height: 55%;
+}
+#ind {
+  align-items: center;
+  width: 15%;
+}
+#daichi,p {
+  display: inline-block;
+  float: left;
 }
